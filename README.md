@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atharva Soni
-- Status:- Currently learning MERN (Full Stack Web Developement)
-- Done:- C/C++ , JAVA , DSA
+- Status:- Currently learning PYTHON
+- Done:- C/C++ , JAVA , DSA , MERN
 
 <!---
 Atharvasoni7/Atharvasoni7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
